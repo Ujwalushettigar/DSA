@@ -38,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Ujwalushettigar/DSA/tree/master/0901-online-stock-span) |
+## Hash Table
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/Ujwalushettigar/DSA/tree/master/3945-digit-frequency-score) |
+## Math
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/Ujwalushettigar/DSA/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
