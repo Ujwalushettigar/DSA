@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Ujwalushettigar/DSA/tree/master/0052-n-queens-ii) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Ujwalushettigar/DSA/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Ujwalushettigar/DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
