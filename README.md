@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ujwalushettigar/DSA/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/Ujwalushettigar/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Ujwalushettigar/DSA/tree/master/0485-max-consecutive-ones) |
+| [0832-flipping-an-image](https://github.com/Ujwalushettigar/DSA/tree/master/0832-flipping-an-image) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ujwalushettigar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/Ujwalushettigar/DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Ujwalushettigar/DSA/tree/master/1929-concatenation-of-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Ujwalushettigar/DSA/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Ujwalushettigar/DSA/tree/master/0027-remove-element) |
+| [0832-flipping-an-image](https://github.com/Ujwalushettigar/DSA/tree/master/0832-flipping-an-image) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ujwalushettigar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -77,9 +79,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ujwalushettigar/DSA/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/Ujwalushettigar/DSA/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Ujwalushettigar/DSA/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/Ujwalushettigar/DSA/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
@@ -89,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ujwalushettigar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Ujwalushettigar/DSA/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
