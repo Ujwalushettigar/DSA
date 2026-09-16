@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Ujwalushettigar/DSA/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Ujwalushettigar/DSA/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Ujwalushettigar/DSA/tree/master/0039-combination-sum) |
 | [0198-house-robber](https://github.com/Ujwalushettigar/DSA/tree/master/0198-house-robber) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Ujwalushettigar/DSA/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Ujwalushettigar/DSA/tree/master/0027-remove-element) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ujwalushettigar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Ujwalushettigar/DSA/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/Ujwalushettigar/DSA/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ujwalushettigar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
