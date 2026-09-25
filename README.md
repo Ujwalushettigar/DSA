@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Ujwalushettigar/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ujwalushettigar/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ujwalushettigar/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3838-weighted-word-mapping](https://github.com/Ujwalushettigar/DSA/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ujwalushettigar/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -105,11 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Ujwalushettigar/DSA/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/Ujwalushettigar/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ujwalushettigar/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3838-weighted-word-mapping](https://github.com/Ujwalushettigar/DSA/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ujwalushettigar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3794-reverse-string-prefix](https://github.com/Ujwalushettigar/DSA/tree/master/3794-reverse-string-prefix) |
+| [3838-weighted-word-mapping](https://github.com/Ujwalushettigar/DSA/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
