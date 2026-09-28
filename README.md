@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ujwalushettigar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Ujwalushettigar/DSA/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/Ujwalushettigar/DSA/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Ujwalushettigar/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Ujwalushettigar/DSA/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Ujwalushettigar/DSA/tree/master/0905-sort-array-by-parity) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ujwalushettigar/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Ujwalushettigar/DSA/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Ujwalushettigar/DSA/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Ujwalushettigar/DSA/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ujwalushettigar/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ujwalushettigar/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Ujwalushettigar/DSA/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Ujwalushettigar/DSA/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ujwalushettigar/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Database
 |  |
