@@ -16,16 +16,13 @@ public:
         int m=0;
         for(int i=0;i<n;i++)
         {
-            for(int j=0;j<n;j++)
+            if(nums[i][i]>m && isPrime(nums[i][i]))
             {
-                if(nums[i][i]>m && isPrime(nums[i][i]))
-                {
-                    m=nums[i][i];
-                }
-                if(nums[n-i-1][i]>m && isPrime(nums[n-i-1][i]))
-                {
-                    m=nums[n-i-1][i];
-                }
+                m=nums[i][i];
+            }
+            if(nums[n-i-1][i]>m && isPrime(nums[n-i-1][i]))
+            {
+                m=nums[n-i-1][i];
             }
         }
         return m;
