@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Ujwalushettigar/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Ujwalushettigar/DSA/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Ujwalushettigar/DSA/tree/master/0905-sort-array-by-parity) |
+| [0942-di-string-match](https://github.com/Ujwalushettigar/DSA/tree/master/0942-di-string-match) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ujwalushettigar/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ujwalushettigar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/Ujwalushettigar/DSA/tree/master/1470-shuffle-the-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ujwalushettigar/DSA/tree/master/0027-remove-element) |
 | [0832-flipping-an-image](https://github.com/Ujwalushettigar/DSA/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Ujwalushettigar/DSA/tree/master/0905-sort-array-by-parity) |
+| [0942-di-string-match](https://github.com/Ujwalushettigar/DSA/tree/master/0942-di-string-match) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ujwalushettigar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ujwalushettigar/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3794-reverse-string-prefix](https://github.com/Ujwalushettigar/DSA/tree/master/3794-reverse-string-prefix) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ujwalushettigar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0942-di-string-match](https://github.com/Ujwalushettigar/DSA/tree/master/0942-di-string-match) |
 | [3794-reverse-string-prefix](https://github.com/Ujwalushettigar/DSA/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Ujwalushettigar/DSA/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ujwalushettigar/DSA/tree/master/0410-split-array-largest-sum) |
+| [0942-di-string-match](https://github.com/Ujwalushettigar/DSA/tree/master/0942-di-string-match) |
 ## Prefix Sum
 |  |
 | ------- |
