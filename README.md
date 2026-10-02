@@ -179,10 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Ujwalushettigar/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/Ujwalushettigar/DSA/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Ujwalushettigar/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/Ujwalushettigar/DSA/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -191,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Ujwalushettigar/DSA/tree/master/0986-interval-list-intersections) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ujwalushettigar/DSA/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ujwalushettigar/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
