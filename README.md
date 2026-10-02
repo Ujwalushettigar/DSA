@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Ujwalushettigar/DSA/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Ujwalushettigar/DSA/tree/master/0048-rotate-image) |
 | [0164-maximum-gap](https://github.com/Ujwalushettigar/DSA/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Ujwalushettigar/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Ujwalushettigar/DSA/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/Ujwalushettigar/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Ujwalushettigar/DSA/tree/master/0410-split-array-largest-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ujwalushettigar/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ujwalushettigar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Ujwalushettigar/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ujwalushettigar/DSA/tree/master/0268-missing-number) |
 | [3945-digit-frequency-score](https://github.com/Ujwalushettigar/DSA/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Ujwalushettigar/DSA/tree/master/0016-3sum-closest) |
 | [0164-maximum-gap](https://github.com/Ujwalushettigar/DSA/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Ujwalushettigar/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ujwalushettigar/DSA/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Ujwalushettigar/DSA/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ujwalushettigar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -201,4 +204,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ujwalushettigar/DSA/tree/master/0547-number-of-provinces) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ujwalushettigar/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ujwalushettigar/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ujwalushettigar/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
