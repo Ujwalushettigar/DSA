@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Ujwalushettigar/DSA/tree/master/0986-interval-list-intersections) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ujwalushettigar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ujwalushettigar/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ujwalushettigar/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ujwalushettigar/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3794-reverse-string-prefix](https://github.com/Ujwalushettigar/DSA/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Ujwalushettigar/DSA/tree/master/0901-online-stock-span) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ujwalushettigar/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -252,4 +254,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Ujwalushettigar/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ujwalushettigar/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ujwalushettigar/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
