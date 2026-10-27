@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ujwalushettigar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Ujwalushettigar/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Ujwalushettigar/DSA/tree/master/0198-house-robber) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ujwalushettigar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ujwalushettigar/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Ujwalushettigar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Ujwalushettigar/DSA/tree/master/0485-max-consecutive-ones) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ujwalushettigar/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ujwalushettigar/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ujwalushettigar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ujwalushettigar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ujwalushettigar/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Ujwalushettigar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/Ujwalushettigar/DSA/tree/master/0875-koko-eating-bananas) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ujwalushettigar/DSA/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ujwalushettigar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/Ujwalushettigar/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Ujwalushettigar/DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Ujwalushettigar/DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ujwalushettigar/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Ujwalushettigar/DSA/tree/master/0190-reverse-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ujwalushettigar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
