@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ujwalushettigar/DSA/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ujwalushettigar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ujwalushettigar/DSA/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/Ujwalushettigar/DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Ujwalushettigar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Ujwalushettigar/DSA/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/Ujwalushettigar/DSA/tree/master/0832-flipping-an-image) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Ujwalushettigar/DSA/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Ujwalushettigar/DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Ujwalushettigar/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Ujwalushettigar/DSA/tree/master/0410-split-array-largest-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujwalushettigar/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Ujwalushettigar/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/Ujwalushettigar/DSA/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Ujwalushettigar/DSA/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
@@ -298,4 +301,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ujwalushettigar/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Ujwalushettigar/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Ujwalushettigar/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
