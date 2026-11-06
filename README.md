@@ -226,12 +226,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ujwalushettigar/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Ujwalushettigar/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0872-leaf-similar-trees](https://github.com/Ujwalushettigar/DSA/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ujwalushettigar/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Ujwalushettigar/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/Ujwalushettigar/DSA/tree/master/0547-number-of-provinces) |
+| [0872-leaf-similar-trees](https://github.com/Ujwalushettigar/DSA/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ujwalushettigar/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Ujwalushettigar/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0872-leaf-similar-trees](https://github.com/Ujwalushettigar/DSA/tree/master/0872-leaf-similar-trees) |
 ## Sweep Line
 |  |
 | ------- |
