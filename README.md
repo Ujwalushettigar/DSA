@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/Ujwalushettigar/DSA/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Ujwalushettigar/DSA/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Ujwalushettigar/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Ujwalushettigar/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Ujwalushettigar/DSA/tree/master/0410-split-array-largest-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujwalushettigar/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Ujwalushettigar/DSA/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Ujwalushettigar/DSA/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Ujwalushettigar/DSA/tree/master/0338-counting-bits) |
 | [0832-flipping-an-image](https://github.com/Ujwalushettigar/DSA/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
