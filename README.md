@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ujwalushettigar/DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ujwalushettigar/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Ujwalushettigar/DSA/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/Ujwalushettigar/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Ujwalushettigar/DSA/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Ujwalushettigar/DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Ujwalushettigar/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ujwalushettigar/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ujwalushettigar/DSA/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Ujwalushettigar/DSA/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Ujwalushettigar/DSA/tree/master/0322-coin-change) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ujwalushettigar/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ujwalushettigar/DSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Ujwalushettigar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0942-di-string-match](https://github.com/Ujwalushettigar/DSA/tree/master/0942-di-string-match) |
