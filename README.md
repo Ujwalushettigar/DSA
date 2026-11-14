@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/Ujwalushettigar/DSA/tree/master/3028-ant-on-the-boundary) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ujwalushettigar/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ujwalushettigar/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Ujwalushettigar/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3838-weighted-word-mapping](https://github.com/Ujwalushettigar/DSA/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ujwalushettigar/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ujwalushettigar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ujwalushettigar/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ujwalushettigar/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Ujwalushettigar/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ujwalushettigar/DSA/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ujwalushettigar/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3028-ant-on-the-boundary](https://github.com/Ujwalushettigar/DSA/tree/master/3028-ant-on-the-boundary) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Ujwalushettigar/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Number Theory
 |  |
 | ------- |
