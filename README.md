@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Ujwalushettigar/DSA/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Ujwalushettigar/DSA/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Ujwalushettigar/DSA/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Ujwalushettigar/DSA/tree/master/0933-number-of-recent-calls) |
 ## Hash Table
 |  |
 | ------- |
@@ -355,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Ujwalushettigar/DSA/tree/master/0274-h-index) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Ujwalushettigar/DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
