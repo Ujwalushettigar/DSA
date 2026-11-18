@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ujwalushettigar/DSA/tree/master/0234-palindrome-linked-list) |
 | [0901-online-stock-span](https://github.com/Ujwalushettigar/DSA/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ujwalushettigar/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/Ujwalushettigar/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Ujwalushettigar/DSA/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ujwalushettigar/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ujwalushettigar/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/Ujwalushettigar/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3028-ant-on-the-boundary](https://github.com/Ujwalushettigar/DSA/tree/master/3028-ant-on-the-boundary) |
 | [3838-weighted-word-mapping](https://github.com/Ujwalushettigar/DSA/tree/master/3838-weighted-word-mapping) |
 ## String
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ujwalushettigar/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ujwalushettigar/DSA/tree/master/0392-is-subsequence) |
 | [0942-di-string-match](https://github.com/Ujwalushettigar/DSA/tree/master/0942-di-string-match) |
+| [2390-removing-stars-from-a-string](https://github.com/Ujwalushettigar/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Ujwalushettigar/DSA/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Ujwalushettigar/DSA/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
