@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Ujwalushettigar/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Ujwalushettigar/DSA/tree/master/0268-missing-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/Ujwalushettigar/DSA/tree/master/1688-count-of-matches-in-tournament) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Ujwalushettigar/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2413-smallest-even-multiple](https://github.com/Ujwalushettigar/DSA/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/Ujwalushettigar/DSA/tree/master/2614-prime-in-diagonal) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ujwalushettigar/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ujwalushettigar/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ujwalushettigar/DSA/tree/master/0392-is-subsequence) |
 | [0942-di-string-match](https://github.com/Ujwalushettigar/DSA/tree/master/0942-di-string-match) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Ujwalushettigar/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2390-removing-stars-from-a-string](https://github.com/Ujwalushettigar/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Ujwalushettigar/DSA/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Ujwalushettigar/DSA/tree/master/3838-weighted-word-mapping) |
