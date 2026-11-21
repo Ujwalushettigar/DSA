@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ujwalushettigar/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ujwalushettigar/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2614-prime-in-diagonal](https://github.com/Ujwalushettigar/DSA/tree/master/2614-prime-in-diagonal) |
+| [2706-buy-two-chocolates](https://github.com/Ujwalushettigar/DSA/tree/master/2706-buy-two-chocolates) |
 | [3028-ant-on-the-boundary](https://github.com/Ujwalushettigar/DSA/tree/master/3028-ant-on-the-boundary) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ujwalushettigar/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ujwalushettigar/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Ujwalushettigar/DSA/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ujwalushettigar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ujwalushettigar/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2706-buy-two-chocolates](https://github.com/Ujwalushettigar/DSA/tree/master/2706-buy-two-chocolates) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ujwalushettigar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0860-lemonade-change](https://github.com/Ujwalushettigar/DSA/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Ujwalushettigar/DSA/tree/master/0942-di-string-match) |
+| [2706-buy-two-chocolates](https://github.com/Ujwalushettigar/DSA/tree/master/2706-buy-two-chocolates) |
 ## Prefix Sum
 |  |
 | ------- |
