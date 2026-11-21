@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ujwalushettigar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Ujwalushettigar/DSA/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/Ujwalushettigar/DSA/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/Ujwalushettigar/DSA/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Ujwalushettigar/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Ujwalushettigar/DSA/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Ujwalushettigar/DSA/tree/master/0905-sort-array-by-parity) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ujwalushettigar/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Ujwalushettigar/DSA/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Ujwalushettigar/DSA/tree/master/0410-split-array-largest-sum) |
+| [0860-lemonade-change](https://github.com/Ujwalushettigar/DSA/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Ujwalushettigar/DSA/tree/master/0942-di-string-match) |
 ## Prefix Sum
 |  |
