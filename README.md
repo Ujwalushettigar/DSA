@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ujwalushettigar/DSA/tree/master/0392-is-subsequence) |
 | [0942-di-string-match](https://github.com/Ujwalushettigar/DSA/tree/master/0942-di-string-match) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Ujwalushettigar/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ujwalushettigar/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/Ujwalushettigar/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Ujwalushettigar/DSA/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Ujwalushettigar/DSA/tree/master/3838-weighted-word-mapping) |
