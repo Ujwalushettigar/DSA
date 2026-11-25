@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/Ujwalushettigar/DSA/tree/master/2614-prime-in-diagonal) |
 | [2706-buy-two-chocolates](https://github.com/Ujwalushettigar/DSA/tree/master/2706-buy-two-chocolates) |
 | [3028-ant-on-the-boundary](https://github.com/Ujwalushettigar/DSA/tree/master/3028-ant-on-the-boundary) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/Ujwalushettigar/DSA/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ujwalushettigar/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ujwalushettigar/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ujwalushettigar/DSA/tree/master/3364-minimum-positive-sum-subarray) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ujwalushettigar/DSA/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ujwalushettigar/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3028-ant-on-the-boundary](https://github.com/Ujwalushettigar/DSA/tree/master/3028-ant-on-the-boundary) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/Ujwalushettigar/DSA/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ujwalushettigar/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Number Theory
 |  |
