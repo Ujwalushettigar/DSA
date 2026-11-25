@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Ujwalushettigar/DSA/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ujwalushettigar/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ujwalushettigar/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ujwalushettigar/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ujwalushettigar/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2614-prime-in-diagonal](https://github.com/Ujwalushettigar/DSA/tree/master/2614-prime-in-diagonal) |
 | [2706-buy-two-chocolates](https://github.com/Ujwalushettigar/DSA/tree/master/2706-buy-two-chocolates) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ujwalushettigar/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Ujwalushettigar/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ujwalushettigar/DSA/tree/master/0268-missing-number) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ujwalushettigar/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ujwalushettigar/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3945-digit-frequency-score](https://github.com/Ujwalushettigar/DSA/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ujwalushettigar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0860-lemonade-change](https://github.com/Ujwalushettigar/DSA/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Ujwalushettigar/DSA/tree/master/0942-di-string-match) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ujwalushettigar/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2706-buy-two-chocolates](https://github.com/Ujwalushettigar/DSA/tree/master/2706-buy-two-chocolates) |
 ## Prefix Sum
 |  |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ujwalushettigar/DSA/tree/master/0169-majority-element) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ujwalushettigar/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
