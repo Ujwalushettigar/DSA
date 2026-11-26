@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ujwalushettigar/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2614-prime-in-diagonal](https://github.com/Ujwalushettigar/DSA/tree/master/2614-prime-in-diagonal) |
 | [2706-buy-two-chocolates](https://github.com/Ujwalushettigar/DSA/tree/master/2706-buy-two-chocolates) |
+| [2784-check-if-array-is-good](https://github.com/Ujwalushettigar/DSA/tree/master/2784-check-if-array-is-good) |
 | [3028-ant-on-the-boundary](https://github.com/Ujwalushettigar/DSA/tree/master/3028-ant-on-the-boundary) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/Ujwalushettigar/DSA/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ujwalushettigar/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ujwalushettigar/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ujwalushettigar/DSA/tree/master/0268-missing-number) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ujwalushettigar/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2784-check-if-array-is-good](https://github.com/Ujwalushettigar/DSA/tree/master/2784-check-if-array-is-good) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ujwalushettigar/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3945-digit-frequency-score](https://github.com/Ujwalushettigar/DSA/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ujwalushettigar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ujwalushettigar/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2706-buy-two-chocolates](https://github.com/Ujwalushettigar/DSA/tree/master/2706-buy-two-chocolates) |
+| [2784-check-if-array-is-good](https://github.com/Ujwalushettigar/DSA/tree/master/2784-check-if-array-is-good) |
 ## Bit Manipulation
 |  |
 | ------- |
