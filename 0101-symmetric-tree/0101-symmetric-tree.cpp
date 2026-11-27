@@ -21,7 +21,11 @@ public:
         {
             return false;
         }
-        return a->val==b->val && check(a->left,b->right) && check(a->right,b->left);
+        if(a->val != b->val)
+        {
+            return false;
+        }
+        return check(a->left,b->right) && check(a->right,b->left);
     }
     bool isSymmetric(TreeNode* root) {
         if(!root)
